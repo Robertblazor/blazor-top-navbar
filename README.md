@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/ningranm0982/5a1c7c22-d0a6-4f46-9c9e-a15e1d65b58d/3b8fc8a0-95f0-43f4-96cb-0b41efd52473/_apis/work/boardbadge/45df9bb0-85ee-42e7-be58-c8bc04e55547)](https://dev.azure.com/ningranm0982/5a1c7c22-d0a6-4f46-9c9e-a15e1d65b58d/_boards/board/t/3b8fc8a0-95f0-43f4-96cb-0b41efd52473/Microsoft.RequirementCategory)
 # Blazor Top NavBar Menu Example
 
 This is an example of a bootstrap top navigation bar menu created for blazor. The default blazor template comes with a sidebar, and there's no default implementation of a top navbar. This example is built on bootstrap 5, which already comes with blazor
